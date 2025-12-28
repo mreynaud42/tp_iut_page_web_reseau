@@ -112,7 +112,7 @@ The website is designed to be responsive and adapts to different screen sizes us
 <a id="author"></a>
 ## 👤 Author
 
-mreynaud42 – GitHub
+[mreynaud42](https://github.com/mreynaud42)
 
 
 <a id="license"></a>
@@ -120,5 +120,5 @@ mreynaud42 – GitHub
 
 This project was created for educational purposes only as part of an academic assignment.
 
-
+All rights reserved.
 
