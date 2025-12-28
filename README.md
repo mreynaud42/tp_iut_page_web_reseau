@@ -95,6 +95,19 @@ tp_iut_page_web_reseau/
 
 The website is designed to be responsive and adapts to different screen sizes using CSS techniques such as flexible layouts and media queries.
 
+### 📸 Exemple
+
+#### Desktop view
+<img src="screenshots/full_size.jpg" width="700" alt="Desktop view">
+
+#### Tablet view
+<img src="screenshots/medium_size.jpg" width="500" alt="Tablet view">
+
+#### Mobile view
+<img src="screenshots/small_size.jpg" width="350" alt="Mobile view">
+
+#### Extra small screen
+<img src="screenshots/Xsmall_size.jpg" width="300" alt="Extra small mobile view">
 
 <a id="author"></a>
 ## 👤 Author
@@ -106,5 +119,6 @@ mreynaud42 – GitHub
 ## 📄 License
 
 This project was created for educational purposes only as part of an academic assignment.
+
 
 
