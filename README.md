@@ -97,13 +97,14 @@ The website is designed to be responsive and adapts to different screen sizes us
 
 
 <a id="author"></a>
-👤 Author
+## 👤 Author
 
 mreynaud42 – GitHub
 
 
 <a id="license"></a>
-📄 License
+## 📄 License
 
 This project was created for educational purposes only as part of an academic assignment.
+
 
